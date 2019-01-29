@@ -21,6 +21,20 @@
 제시된 기능을 완성하지 못하더라도 자신이 할 수 있는 부분을 최대한 구현해보세요.
 ```
 
+## 수행 완료
+
+-  AsyncTask, HttpURLConnection을 활용한 통신
+-  ICON JSON RPC 3.0을 이용하여 가장 마지막 10개의 블록을 가져오기 
+-  내림차순으로 리스트 출력 
+-  각 항목을 표시할 때 block_hash를 title로 사용
+-  각 항목 선택 시 Transaction List 보여주기 
+
+
+## 실행 화면 
+
+ ![MainActivity](./images/mobile-tracker1.PNG)
+ ![Main2Activity](./images/mobile-tracker2.PNG)
+
 ## References
 
 - [ICON JSON RPC 3.0](https://github.com/icon-project/icon-rpc-server/blob/master/docs/icon-json-rpc-v3.md)
